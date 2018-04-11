@@ -1,0 +1,2 @@
+var answer = "";
+var theResult = [];
