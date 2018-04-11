@@ -14,7 +14,7 @@ Numbers divisible by 15 become pingpong
 
 ## Getting Started
 
-all you need is internet connection a browser and a web Url to access it which is; https://jeremy-mutitu.github.io/IP2/
+all you need is internet connection a browser and a web Url to access it which is; jeremy-mutitu.github.io/PingPong-Game
 
 ### Prerequisites
 
