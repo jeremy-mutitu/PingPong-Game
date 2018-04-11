@@ -1,6 +1,7 @@
 body {
   text-align: center;
 }
+
 #pingpongButton {
   box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   background-color: #4dc3ff;
@@ -12,9 +13,11 @@ body {
   display: inline-block;
   font-size: 16px;
 }
+
 .submitbbton {
   text-align: center;
 }
+
 #result {
-    background-image: url("images/landing2.jpg");
-    background-color: #cccccc;
+  background-image: url("images/landing2.jpg");
+  background-color: #cccccc;

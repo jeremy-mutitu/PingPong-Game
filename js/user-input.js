@@ -1,8 +1,6 @@
+$(document).ready(function() {
 
-
-$(document).ready(function () {
-
-  $(".ping-pong").submit(function (event) {
+  $(".ping-pong").submit(function(event) {
     event.preventDefault();
     $("ul").empty();
     var userInput = $("#user-input").val();
@@ -12,7 +10,7 @@ $(document).ready(function () {
       $("ul").append("<li>" + theResult + "</li>");
     }
   });
-  var effectsJumbo = function () {
+  var effectsJumbo = function() {
     if ($("#top-heading").offset().top > 40) {
       $("#top-heading").addClass("jumbotron-transparent");
     } else {
