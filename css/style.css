@@ -12,3 +12,9 @@ body {
   display: inline-block;
   font-size: 16px;
 }
+.submitbbton {
+  text-align: center;
+}
+#result {
+    background-image: url("images/landing2.jpg");
+    background-color: #cccccc;
